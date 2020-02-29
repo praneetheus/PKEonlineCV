@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'pke'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_af81e63b46b14e6f8a8b4ad54f594302 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f26674c508c340aaae2b70fde83de731 }}
         package: .
